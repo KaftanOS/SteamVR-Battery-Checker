@@ -17,10 +17,11 @@ A simple Python script to check the battery level of SteamVR devices (headset, c
 
 Install dependencies:
 ```bash
+
 pip install openvr
+```
 
-
-How to Run
+▶️ How to Run
 
 Start SteamVR
 
@@ -34,3 +35,14 @@ You’ll see a list of connected devices and their battery levels:
 0: HMD (LHR-XXXXXXX) – battery: 95%
 1: Controller (LHR-YYYYYYY) – battery: 81%
 2: Controller (LHR-ZZZZZZZ) – no battery data
+
+⚖️ License
+
+This project is licensed under the GNU GPL v3.
+See the LICENSE
+ file for details.
+
+💬 Author
+
+KaftanOS
+📅 2025
