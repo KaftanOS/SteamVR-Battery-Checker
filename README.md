@@ -27,14 +27,18 @@ Start SteamVR
 
 Run the script in your terminal or PowerShell:
 
+```bash
 python steamvr_battery.py
-
+```
 
 You’ll see a list of connected devices and their battery levels:
 
+```bash
 0: HMD (LHR-XXXXXXX) – battery: 95%
 1: Controller (LHR-YYYYYYY) – battery: 81%
 2: Controller (LHR-ZZZZZZZ) – no battery data
+```
+
 
 ⚖️ License
 
